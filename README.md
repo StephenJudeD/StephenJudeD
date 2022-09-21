@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stephen Donohoe
-- 👀 I’m interested in Data Wrangling, Interpretation and Visualization
+- 👀 I’m interested in Data Wrangling, Interpretation, ML and Visualization
 - 🌱 I’m currently studying for a MSc in Big Data & AI
 
 
