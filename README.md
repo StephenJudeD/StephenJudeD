@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stephen Donohoe
-- 👀 I’m interested in Data Wrangling, Interpretation, ML and Visualization
-- 🌱 I’m currently studying for a MSc in Big Data & AI
+- 👀 I’m interested in all things Data Science 
+- 🌱 I’m currently working as a Data Scientist 
 
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
