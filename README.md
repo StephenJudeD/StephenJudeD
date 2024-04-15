@@ -1,18 +1,5 @@
-- 👋 Hi, I’m @Stephen Donohoe
-- 👀 I’m interested in Data Wrangling, Interpretation, ML and Visualization
-- 🌱 I’m currently studying for a MSc in Big Data & AI
 
-
-<!---
-StephenJudeD/StephenJudeD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yogesh+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
-</h1>
-<br>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  I recently completed my Masters in Big data & AI, and currently work as a Data Sceintist.  I’m interested in Data Wrangling, Interpretation, ML and Visualization
+I recently completed my Masters in Big data & AI, and currently work as a Data Sceintist.  I’m interested in Data Wrangling, Interpretation, ML and Visualization
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
